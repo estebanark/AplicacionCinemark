@@ -1,0 +1,8 @@
+/***************************************************************
+ * Proyecto Cinemark - Programación 4
+ * Aplicacion que administra los teatros y sus peliculas asociadas.
+ * @author Elvis Esteban Aragón Castaño
+ * Código: 1115077569
+ * @version 1.0
+ * Universidad Tecnológica de Pereira - 2014
+ **************************************************************/

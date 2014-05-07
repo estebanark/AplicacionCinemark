@@ -1,0 +1,14 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}**************************************************************
+${licensePrefix}Proyecto Cinemark - Programacion 4
+${licensePrefix}Aplicacion que administra los teatros y sus peliculas asociadas.
+${licensePrefix}@author Elvis Esteban Aragon Castaño
+${licensePrefix}Código: 1115077569
+${licensePrefix}@version 1.0
+${licensePrefix}Universidad Tecnologica de Pereira - 2014
+${licensePrefix}**************************************************************
+<#if licenseLast??>
+${licenseLast}
+</#if>
